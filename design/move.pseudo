@@ -1,13 +1,23 @@
-# Project One Move-Between-Rooms Pseudocode
-#
-# Graded checkpoint: Module Five Project One
-# Later use: conceptual support for M6; movement design for M7
-#
-# Review the course-provided movement flowchart before completing this file.
-# Write pseudocode, not Python code. Use clear indentation and course-appropriate
-# keywords such as INPUT, OUTPUT, IF, ELSE, WHILE, SET, or similar terms.
+START move_between_rooms
 
-# TODO 1: Identify the information the movement process needs.
+SET current_room to "Security Lobby"
+
+WHILE game is still running
+
+    OUTPUT "You are in " + current_room
+    OUTPUT "Enter a direction: north, south, east, or west"
+    INPUT direction
+
+    IF direction is a valid direction from current_room THEN
+        SET current_room to the room in that direction
+        OUTPUT "You moved to " + current_room
+    ELSE
+        OUTPUT "You cannot go that way."
+    END IF
+
+END WHILE
+
+END move_between_rooms
 # Consider the player's current room and movement command.
 
 # TODO 2: Prompt for and receive the player's movement command.
