@@ -7,18 +7,18 @@
 # Write pseudocode, not Python code. Use clear indentation and course-appropriate
 # keywords such as INPUT, OUTPUT, IF, ELSE, WHILE, SET, or similar terms.
 
-# TODO 1: Identify the information the movement process needs.
+# TODO 1: current room and movement command.
 # Consider the player's current room and movement command.
 
-# TODO 2: Prompt for and receive the player's movement command.
+# TODO 2: prompts for player input
 
-# TODO 3: Validate whether the requested movement is possible from the
+# TODO 3: checks whether the requested movement is possible
 # current room. Show the decision clearly.
 
-# TODO 4: Describe what happens when the movement command is valid.
+# TODO 4:updates the room and gives output for a valid movement
 # Include the room update and player output.
 
-# TODO 5: Describe what happens when the movement command is invalid.
+# TODO 5: gives an error message for an invalid movement
 # Include the output the player should receive.
 
 # TODO 6: Show how movement fits into repeated gameplay.
