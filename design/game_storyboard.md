@@ -7,25 +7,23 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Cyber Defense Mission is a cybersecurity-themed adventure game where the player must protect a company's computer network from a dangerous hacker.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
-
+The player is a cybersecurity analyst working to stop a hacker named ShadowByte from taking control of the company's network. The player must travel through different areas of the company and collect six cybersecurity items: an Access Badge, Network Scanner, Security Manual, Encryption Key, Antivirus Drive, and Backup Disk. The player must collect all six items before entering the Server Room and confronting ShadowByte. If the player enters the Server Room before collecting all six items, the cyberattack succeeds and the player loses the game.
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+Security Lobby - Start Room
+Help Desk
+Network Operations Center
+Training Room
+Database Office
+Security Lab
+Backup Center
+Server Room - Villain Room
 
 Add more rooms if your design needs them.
 
@@ -34,19 +32,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+Access Badge
+Network Scanner
+Security Manual
+Encryption Key
+Antivirus Drive
+Backup Disk
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+ShadowByte is a dangerous hacker who has taken control of the company's Server Room. The player must collect all six cybersecurity items before confronting ShadowByte.
 
 ## Storyboard and Map Check
 
