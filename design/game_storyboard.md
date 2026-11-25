@@ -46,8 +46,7 @@ except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
-
+ShadowByte is a dangerous hacker who has taken control of the company's Server Room. The player must collect all six cybersecurity items before confronting ShadowByte.
 ## Storyboard and Map Check
 
 Before submitting, compare this storyboard with `game_map.drawio`.
